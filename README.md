@@ -2,8 +2,6 @@
 
 Desenvolvedor Full-Stack apaixonado por criar soluções digitais escaláveis e eficientes.
 
----
-
 ## 🧠 Sobre mim
 
 - 👨‍💻 Trabalhando com Frontend.
