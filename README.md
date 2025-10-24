@@ -1,6 +1,6 @@
 ## Oi...Prazer, me chamo João :) 
 [![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=joaopedrokmd)](https://github.com/joaopedrokmd/github-readme-stats)
-![Minhas estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=joaopedrokmd&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Minhas estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=joaopedrokmd&show_icons=true&theme=onedark)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
