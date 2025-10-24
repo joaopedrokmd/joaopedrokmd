@@ -6,8 +6,8 @@ Desenvolvedor Full-Stack apaixonado por criar soluções digitais escaláveis e 
 
 - 👨‍💻 Trabalhando e se especializando Full-Stack.
 - 📍 Localizado em Boa Vista, Roraima.
-- 💼 [LinkedIn](www.linkedin.com/in/joão-pedro-da-costa-lima-75323021b)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/joão-pedro-da-costa-lima-75323021b)
+- 🙂‍↔️ [Instagram](https://www.instagram.com/joaopedro_kmd) 
 ## 🛠️ Tecnologias & Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
