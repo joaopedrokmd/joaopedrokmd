@@ -28,4 +28,4 @@ Desenvolvedor Full-Stack apaixonado por criar soluções digitais escaláveis e 
 
 ## 📈 Atividade no GitHub
 
-![Contribuições diárias](https://github-readme-activity-graph.cyclic.app/graph?username=joaopedrokmd&theme=github-compact)
+![Atividade no GitHub](https://activity-graph.herokuapp.com/graph?username=joaopedrokmd&theme=github)
