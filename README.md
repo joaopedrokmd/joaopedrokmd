@@ -28,4 +28,6 @@ Desenvolvedor Full-Stack apaixonado por criar soluções digitais escaláveis e 
 
 ## 📈 Atividade no GitHub
 
-![Atividade no GitHub](https://activity-graph.herokuapp.com/graph?username=joaopedrokmd&theme=github)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaopedrokmd&show_icons=true&theme=transparent)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrokmd&layout=compact&theme=transparent)
