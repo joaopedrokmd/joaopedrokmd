@@ -1,13 +1,14 @@
-# Olá, sou o João Pedro 👋
+# 👋 Olá, eu sou o João Pedro
 
 Desenvolvedor Full-Stack apaixonado por criar soluções digitais escaláveis e eficientes.
 
+---
+
 ## 🧠 Sobre mim
 
-- 👨‍💻 Trabalhando com Angular, Spring Boot e tecnologias modernas.
-- 📍 Localizado em Manaus, Amazonas.
-- 🌐 [Portfólio](https://portifoliojoaop.netlify.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/joao-pedro-pereira-da-silva)
+- 👨‍💻 Trabalhando com Frontend.
+- 📍 Localizado em Boa Vista, Roraima.
+- 💼 [LinkedIn](www.linkedin.com/in/joão-pedro-da-costa-lima-75323021b)
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -26,8 +27,3 @@ Desenvolvedor Full-Stack apaixonado por criar soluções digitais escaláveis e 
 
 ![Streak do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=joaopedrokmd&theme=transparent)
 
-## 📈 Atividade no GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaopedrokmd&show_icons=true&theme=transparent)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrokmd&layout=compact&theme=transparent)
