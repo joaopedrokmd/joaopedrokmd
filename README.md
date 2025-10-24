@@ -27,5 +27,5 @@
 ## 🌐 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/joaopedrokmd)  
-- 🐦 [Twitter](https://twitter.com/joaopedrokmd)  
+- 📷 [Instagram](https://www.instagram.com/joaopedro.kmd)  
 - 📧 Email: **joaopedro.kmd31@gmail.com**
