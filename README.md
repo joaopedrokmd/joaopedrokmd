@@ -1,9 +1,6 @@
 ## Oi...Prazer, me chamo João :) 
 [![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=joaopedrokmd)](https://github.com/joaopedrokmd/github-readme-stats)
-<!--
-**joaopedrokmd/joaopedrokmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![Minhas estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=joaopedrokmd&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
